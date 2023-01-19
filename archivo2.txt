@@ -1,1 +1,2 @@
 Este es el archivo2.txt para el flujo individual de 2 equipos.
+Segunda modificación del archivo 2.
